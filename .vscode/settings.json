@@ -27,11 +27,5 @@
 
   // terminal
   "terminal.integrated.fontSize": 16,
-  "terminal.integrated.profiles.windows": {
-    "Git Bash": {
-      "source": "Git Bash"
-    }
-  },
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "window.zoomLevel": 0
 }
